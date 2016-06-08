@@ -1,0 +1,5 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication30\UserAuth.Data\bin\Debug\UserAuth.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication30\UserAuth.Data\bin\Debug\UserAuth.Data.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication30\UserAuth.Data\obj\Debug\UserAuth.Data.csprojResolveAssemblyReference.cache
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication30\UserAuth.Data\obj\Debug\UserAuth.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication30\UserAuth.Data\obj\Debug\UserAuth.Data.pdb

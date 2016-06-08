@@ -1,0 +1,15 @@
+﻿@model MvcApplication30.Models.IndexViewModel
+
+@if (Model.IsLoggedIn)
+{
+    <h3>Currently logged in as: @Model.Username</h3>
+}
+else
+{
+    <h3>Currently not logged in</h3>
+}
+
+<h1>Welcome to my awesome site!</h1>
+<a href="/home/signup">Signup</a>
+<br/>
+<a href="/home/login">Login</a>
